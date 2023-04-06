@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ciscobotlifetime",
+    "productId": "16731345983793BD2TQOxApTc6I",
+    "useCloud": true
+  },
+  {
+    "name": "ciscobot",
+    "productId": "16731345983793BD2TQOxApTc6I",
+    "useCloud": true
+  },
+  {
+    "name": "imageengine",
+    "productId": "1673135786023hMhhWyba4tNzNA",
+    "useCloud": true
+  },
+  {
+    "name": "portfolio",
+    "productId": "1673136744859QB2FSWBnPJXb8B",
+    "useCloud": true
+  },
+  {
+    "name": "paymentsystem",
+    "productId": "16731355145286Hp6hul9F1iTcb",
+    "useCloud": true
+  },
+  {
+    "name": "ciscodocs",
+    "productId": "1673825471279LL3UbKdvrL9zGQ",
+    "useCloud": true
+  }
+]
